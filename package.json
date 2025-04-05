@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@stripe/react-stripe-js": "^3.5.1",
+    "@stripe/stripe-js": "^6.1.0",
+    "aos": "^2.3.4",
+    "axios": "^1.8.4",
+    "recharts": "^2.15.1"
+  }
+}
